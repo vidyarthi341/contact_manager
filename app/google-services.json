@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329654268270",
+    "project_id": "contact-manager-f53bb",
+    "storage_bucket": "contact-manager-f53bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329654268270:android:d2de31eaba77a31327917f",
+        "android_client_info": {
+          "package_name": "com.example.contact_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpHIk8YdWGvqzmoLKO1fNB1hnKrwCeGYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
